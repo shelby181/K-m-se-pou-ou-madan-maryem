@@ -448,45 +448,6 @@ footer {
 
 </section>
 
-<section class="section">
-
-    <h2>Quelques souvenirs 📸</h2>
-
-    <p class="subtitle">
-        Les images ont parfois le pouvoir
-        de raconter ce que les mots ne peuvent pas.
-    </p>
-
-    <div class="gallery">
-
-        <div class="photo">
-            <img src="photo1.jpg"
-            alt="Souvenir 1"
-            onclick="showPhoto(this)">
-        </div>
-
-        <div class="photo">
-            <img src="photo2.jpg"
-            alt="Souvenir 2"
-            onclick="showPhoto(this)">
-        </div>
-
-        <div class="photo">
-            <img src="photo3.jpg"
-            alt="Souvenir 3"
-            onclick="showPhoto(this)">
-        </div>
-
-        <div class="photo">
-            <img src="photo4.jpg"
-            alt="Souvenir 4"
-            onclick="showPhoto(this)">
-        </div>
-
-    </div>
-
-</section>
-
 <section class="section final">
 
     <h2>À toi, Manmi ❤️</h2>
